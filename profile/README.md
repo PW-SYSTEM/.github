@@ -38,7 +38,7 @@ For architectural designs, public system specifications, and decoupled technical
 
 * 📡 **[PW OpsDesk Architecture Showcase](https://github.com/welzim19-star/pw-opsdesk-showcase):** High-level event-driven dispatch and SLA specifications.
 * 🛡️ **[Bastion-Core Engine](https://github.com/welzim19-star/bastion-core):** Sanitized, open-source asynchronous network audit daemon and SHA-256 cryptographic ledger.
-* ⚡ **[Lead Architect Profile](https://github.com/welzim19-star):** Technical portfolio and low-level engineering implementations.
+* ⚡ **[Systems Engineer Profile (@welzim19-star)](https://github.com/welzim19-star):** Technical portfolio and low-level engineering implementations.
 
 ---
 
