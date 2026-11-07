@@ -3,13 +3,15 @@
 </div>
 
 <div align="center">
-  <h1>PW-SYSTEM</h1>
-  <p><strong>Infraestrutura Corporativa, Arquitetura de Sistemas Críticos & Governança Operacional</strong></p>
-  
+  <img src="profile/assets/enterprise_banner.svg" alt="PW-SYSTEM - Infraestrutura Corporativa &amp; Sistemas Críticos" width="100%" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Opera%C3%A7%C3%B5es+de+Miss%C3%A3o+Cr%C3%ADtica+%E2%80%A2+Automa%C3%A7%C3%A3o+em+Campo;Per%C3%ADcias+Biom%C3%A9tricas+%E2%80%A2+Ledgers+Imut%C3%A1veis+SHA-256;Seguran%C3%A7a+Perimetral+Zero-Trust+%E2%80%A2+Alta+Disponibilidade" alt="Subtítulo Animado" />
+  <br/><br/>
   <p>
     <img src="https://img.shields.io/badge/Dom%C3%ADnio-Opera%C3%A7%C3%B5es%20Corporativas%20B2B-blue" alt="Domínio">
     <img src="https://img.shields.io/badge/Seguran%C3%A7a-Zero--Trust%20%7C%20Isolamento%20Galv%C3%A2nico-brightgreen" alt="Segurança">
     <img src="https://img.shields.io/badge/Arquitetura-Orientada%20a%20Eventos%20%2F%20Offline--First-orange" alt="Arquitetura">
+    <img src="https://img.shields.io/badge/Conformidade-LGPD%20%2F%20SOC--2%20Pronto-blueviolet" alt="Conformidade">
   </p>
 </div>
 
@@ -29,6 +31,35 @@ Nossas soluções atendem concessionárias de serviços públicos, redes de tele
 * **PW Certify Enterprise:** Cliente móvel multiplataforma de inspeção técnica (Capacitor/Tauri) com impressão digital criptográfica de hardware, bloqueio por polígono GPS e emissão automatizada de laudos periciais em PDF.
 * **Bastion Audit Enterprise:** Agente autônomo de conformidade de segurança, inventário de ativos em tempo real e trilha imutável de auditoria com encadeamento criptográfico SHA-256 para perímetros de rede sensíveis.
 * **Resolve-IT:** Ponte operacional de atendimento e resolução de chamados de campo com sincronização bidirecional com APIs ITSM corporativas (padrão HaloITSM).
+
+---
+
+### 📸 Vitrine de Operações em Produção
+
+Registros de campo em ambiente corporativo demonstrando os fluxos de despacho, auditoria técnica e selamento criptográfico:
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="profile/assets/app_hub_view.jpg" alt="Central de Despacho Operacional" width="100%" />
+      <p><strong>Central de Despacho:</strong> Roteamento de ordens de serviço em tempo real, radar de equipes e gestão de filas.</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="profile/assets/app_redes_mapping.png" alt="Mapeamento de Topologia de Rede" width="100%" />
+      <p><strong>Mapeamento de Redes:</strong> Auditoria de portas de switch, topologia e validação de racks de telecom.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="profile/assets/app_cftv_checklist.png" alt="Checklist Pericial de CFTV" width="100%" />
+      <p><strong>Checklist de CFTV:</strong> Validação de fluxo de vídeo ponto a ponto, foco ótico e integridade física.</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="profile/assets/app_pdf_dossier.png" alt="Dossiê Técnico Pericial em PDF" width="100%" />
+      <p><strong>Dossiê Pericial em PDF:</strong> Laudos técnicos gerados assincronamente com assinatura digital e carimbo de tempo.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 

@@ -3,13 +3,15 @@
 </div>
 
 <div align="center">
-  <h1>PW-SYSTEM</h1>
-  <p><strong>Enterprise Infrastructure, Critical Systems Architecture & Operational Governance</strong></p>
-  
+  <img src="profile/assets/enterprise_banner.svg" alt="PW-SYSTEM - Enterprise Critical Systems &amp; Infrastructure" width="100%" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Mission-Critical+Operations+%E2%80%A2+Field+Service+Automation;Biometric+Forensics+%E2%80%A2+Tamper-Evident+Audit+Ledgers;Zero-Trust+Perimeter+Security+%E2%80%A2+High-Availability+SLA" alt="Typing Subtitle" />
+  <br/><br/>
   <p>
     <img src="https://img.shields.io/badge/Domain-B2B%20Enterprise%20Operations-blue" alt="Domain">
     <img src="https://img.shields.io/badge/Security-Zero--Trust%20%7C%20Galvanic%20Decoupling-brightgreen" alt="Security">
     <img src="https://img.shields.io/badge/Architecture-Event--Driven%20%2F%20Offline--First-orange" alt="Architecture">
+    <img src="https://img.shields.io/badge/Compliance-LGPD%20%2F%20SOC--2%20Ready-blueviolet" alt="Compliance">
   </p>
 </div>
 
@@ -29,6 +31,35 @@ Our solutions are deployed across public concessions, telecom networks, and larg
 * **PW Certify Enterprise:** Multi-platform mobile inspection client (Capacitor/Tauri) with cryptographic hardware fingerprinting, GPS polygon locking, and automated forensic PDF report generation.
 * **Bastion Audit Enterprise:** Autonomous security compliance agent, asset inventory scanner, and tamper-evident SHA-256 chained audit ledger for sensitive network perimeters.
 * **Resolve-IT:** Operational field ticketing bridge with bidirectional enterprise ITSM API synchronization (HaloITSM standard).
+
+---
+
+### 📸 Production Operational Showcase
+
+Field captures from enterprise deployments demonstrating dispatcher controls, mobile inspection workflows, and cryptographic evidence sealing:
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="profile/assets/app_hub_view.jpg" alt="Operational Dispatch Hub" width="100%" />
+      <p><strong>Operational Dispatch Hub:</strong> Real-time ticket routing, live supervisor radar, and queue governance.</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="profile/assets/app_redes_mapping.png" alt="Network &amp; Topology Inspection" width="100%" />
+      <p><strong>Network Infrastructure Mapping:</strong> Switch port auditing, topology discovery, and telecom rack verification.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="profile/assets/app_cftv_checklist.png" alt="CCTV Inspection Checklist" width="100%" />
+      <p><strong>CCTV Camera Compliance Checklist:</strong> Point-to-point stream validation, optic alignment, and physical hardening.</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="profile/assets/app_pdf_dossier.png" alt="Forensic PDF Dossier" width="100%" />
+      <p><strong>Forensic PDF Audit Dossier:</strong> Digitally signed, tamper-evident inspection reports generated in real time.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 

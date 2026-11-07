@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 240" width="100%" height="240" role="img" aria-label="PW-SYSTEM - Enterprise Critical Systems &amp; Infrastructure">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="orgBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060b14" />
+      <stop offset="50%" stop-color="#0a1222" />
+      <stop offset="100%" stop-color="#040810" />
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="orgBorderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.8">
+        <animate attributeName="stop-color" values="#1f6feb;#58a6ff;#1f6feb" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.9">
+        <animate attributeName="stop-color" values="#58a6ff;#388bfd;#58a6ff" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0969da" stop-opacity="0.8">
+        <animate attributeName="stop-color" values="#0969da;#1f6feb;#0969da" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Radar Scanline Gradient -->
+    <linearGradient id="orgScanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="orgGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#162238" stroke-width="0.75" />
+    </pattern>
+
+    <style>
+      .term-title { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Courier New", monospace; font-size: 26px; font-weight: 800; fill: #ffffff; letter-spacing: 2px; }
+      .term-prompt { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Courier New", monospace; font-size: 20px; font-weight: 700; fill: #58a6ff; }
+      .term-sub { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Courier New", monospace; font-size: 13px; font-weight: 500; fill: #8b949e; letter-spacing: 0.5px; }
+      .pill-box { fill: #0d1726; stroke: #213554; stroke-width: 1; rx: 6px; }
+      .pill-title { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Courier New", monospace; font-size: 10px; font-weight: 700; fill: #58a6ff; letter-spacing: 1px; }
+      .pill-val { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Courier New", monospace; font-size: 12px; font-weight: 600; fill: #e6edf3; }
+      .status-dot { fill: #388bfd; }
+      .cursor { fill: #58a6ff; }
+    </style>
+  </defs>
+
+  <!-- Card Canvas -->
+  <rect x="2" y="2" width="846" height="236" rx="10" fill="url(#orgBgGrad)" stroke="url(#orgBorderGrad)" stroke-width="1.5" />
+  <rect x="2" y="2" width="846" height="236" rx="10" fill="url(#orgGrid)" />
+
+  <!-- Animated Scanline -->
+  <rect x="0" y="2" width="180" height="236" fill="url(#orgScanGrad)">
+    <animate attributeName="x" from="-180" to="850" dur="5s" repeatCount="indefinite" ease="linear" />
+  </rect>
+
+  <!-- Top Cyber Status Bar -->
+  <line x1="2" y1="38" x2="848" y2="38" stroke="#213554" stroke-width="1" />
+  <circle cx="24" cy="20" r="4.5" fill="#f85149" />
+  <circle cx="40" cy="20" r="4.5" fill="#d29922" />
+  <circle cx="56" cy="20" r="4.5" fill="#388bfd" />
+  
+  <text x="75" y="24" font-family="ui-monospace, monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="1">ORGANIZATION // ENTERPRISE SYSTEMS GOVERNANCE // SOC-2 READY</text>
+
+  <!-- Live Pulse Node -->
+  <g transform="translate(710, 20)">
+    <circle cx="0" cy="0" r="4" class="status-dot">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="12" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#58a6ff">ENTERPRISE</text>
+  </g>
+
+  <!-- Main Identity Tier -->
+  <g transform="translate(32, 85)">
+    <text x="0" y="0" class="term-prompt">🏢</text>
+    <text x="32" y="0" class="term-title">PW-SYSTEM</text>
+    <text x="210" y="-2" font-family="ui-monospace, monospace" font-size="14" font-weight="700" fill="#58a6ff">// MISSION-CRITICAL ARCHITECTURE</text>
+
+    <!-- Blinking Cursor -->
+    <rect x="580" y="-18" width="10" height="20" class="cursor">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Subtitle Stack -->
+    <text x="0" y="28" class="term-sub">FIELD SERVICE AUTOMATION • BIOMETRIC FORENSICS • PERIMETER AUDITING</text>
+  </g>
+
+  <!-- Telemetry Metrics Pods -->
+  <g transform="translate(32, 145)">
+    <!-- Pod 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="186" height="58" class="pill-box" />
+      <text x="14" y="22" class="pill-title">FIELD OPERATIONS</text>
+      <text x="14" y="42" class="pill-val">PW OpsDesk Real-Time</text>
+    </g>
+
+    <!-- Pod 2 -->
+    <g transform="translate(200, 0)">
+      <rect width="186" height="58" class="pill-box" />
+      <text x="14" y="22" class="pill-title">BIOMETRIC AUDIT</text>
+      <text x="14" y="42" class="pill-val">PW Certify Forensic</text>
+    </g>
+
+    <!-- Pod 3 -->
+    <g transform="translate(400, 0)">
+      <rect width="186" height="58" class="pill-box" />
+      <text x="14" y="22" class="pill-title">SECURITY DAEMON</text>
+      <text x="14" y="42" class="pill-val">Bastion Audit WAL</text>
+    </g>
+
+    <!-- Pod 4 -->
+    <g transform="translate(600, 0)">
+      <rect width="186" height="58" class="pill-box" />
+      <text x="14" y="22" class="pill-title">SERVICE DESK</text>
+      <text x="14" y="42" class="pill-val">HaloITSM Bridge</text>
+    </g>
+  </g>
+</svg>
