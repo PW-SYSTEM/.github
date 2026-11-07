@@ -38,7 +38,7 @@ Para projetos de arquitetura, especificações abertas e motores de software des
 
 * 📡 **[Vitrine Arquitetural PW OpsDesk](https://github.com/welzim19-star/pw-opsdesk-showcase):** Especificação de despacho orientado a eventos e SLAs corporativos.
 * 🛡️ **[Motor Bastion-Core](https://github.com/welzim19-star/bastion-core):** Daemon assíncrono de auditoria de rede e ledger criptográfico SHA-256 sanitizado (código aberto).
-* ⚡ **[Perfil do Arquiteto Líder](https://github.com/welzim19-star):** Portfólio técnico e implementações de baixo nível.
+* ⚡ **[Perfil de Engenharia de Software (@welzim19-star)](https://github.com/welzim19-star):** Portfólio técnico e implementações de baixo nível.
 
 ---
 
