@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Lorinmr Dev</h1>
+  <h1>PW-SYSTEM</h1>
   <p><strong>Infraestrutura Corporativa, Arquitetura de Sistemas Críticos & Governança Operacional</strong></p>
   
   <p>
@@ -15,9 +15,9 @@
 
 ---
 
-### 🏢 Sobre a Lorinmr Dev
+### 🏢 Sobre a PW-SYSTEM
 
-A Lorinmr Dev atua como a organização técnica de engenharia e governança para sistemas corporativos de missão crítica, automação de operações de campo e infraestruturas defensivas.
+A PW-SYSTEM atua como a organização técnica de engenharia e governança para sistemas corporativos de missão crítica, automação de operações de campo e infraestruturas defensivas.
 
 Nossas soluções atendem concessionárias de serviços públicos, redes de telecomunicações e operações industriais de larga escala, onde falhas de sistema, vazamento de informações ou interrupções operacionais são inaceitáveis.
 
@@ -47,5 +47,5 @@ Para projetos de arquitetura, especificações abertas e motores de software des
 *Algoritmos proprietários, código-fonte de produção, manifestos de implantação comercial e ambientes de integração de clientes são ativos comerciais privados regidos por acordos estritos de confidencialidade (NDA) e diretrizes de conformidade LGPD e SOC 2.*
 
 <div align="center">
-  <sub>© 2026 Lorinmr Dev & Sistemas Corporativos PW. Todos os direitos reservados.</sub>
+  <sub>© 2026 PW-SYSTEM. Todos os direitos reservados.</sub>
 </div>

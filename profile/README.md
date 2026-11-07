@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Lorinmr Dev</h1>
+  <h1>PW-SYSTEM</h1>
   <p><strong>Enterprise Infrastructure, Critical Systems Architecture & Operational Governance</strong></p>
   
   <p>
@@ -15,9 +15,9 @@
 
 ---
 
-### 🏢 About Lorinmr Dev
+### 🏢 About PW-SYSTEM
 
-Lorinmr Dev acts as the technical engineering and governance umbrella for mission-critical enterprise systems, field service automation, and defensive operations infrastructures. 
+PW-SYSTEM acts as the technical engineering and governance umbrella for mission-critical enterprise systems, field service automation, and defensive operations infrastructures. 
 
 Our solutions are deployed across public concessions, telecom networks, and large-scale industrial operations where system failures, security leaks, or operational downtime are unacceptable.
 
@@ -47,5 +47,5 @@ For architectural designs, public system specifications, and decoupled technical
 *Proprietary algorithms, production source code, commercial deployment manifests, and client integration environments are private commercial assets managed under strict Non-Disclosure Agreements (NDA) and LGPD/SOC 2 compliance frameworks.*
 
 <div align="center">
-  <sub>© 2026 Lorinmr Dev & PW Enterprise Systems. All rights reserved.</sub>
+  <sub>© 2026 PW-SYSTEM. All rights reserved.</sub>
 </div>
