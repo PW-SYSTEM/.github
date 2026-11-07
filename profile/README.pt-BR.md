@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.md">English</a> | <strong>Português</strong>
+  <a href="https://github.com/PW-SYSTEM">English</a> | <strong>Português</strong>
 </div>
 
 <div align="center">

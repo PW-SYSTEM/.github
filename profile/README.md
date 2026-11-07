@@ -1,5 +1,5 @@
 <div align="right">
-  <strong>English</strong> | <a href="README.pt-BR.md">Português</a>
+  <strong>English</strong> | <a href="https://github.com/PW-SYSTEM/.github/blob/main/profile/README.pt-BR.md">Português</a>
 </div>
 
 <div align="center">
@@ -70,6 +70,33 @@ For architectural designs, public system specifications, and decoupled technical
 * 📡 **[PW OpsDesk Architecture Showcase](https://github.com/welzim19-star/pw-opsdesk-showcase):** High-level event-driven dispatch and SLA specifications.
 * 🛡️ **[Bastion-Core Engine](https://github.com/welzim19-star/bastion-core):** Sanitized, open-source asynchronous network audit daemon and SHA-256 cryptographic ledger.
 * ⚡ **[Systems Engineer Profile (@welzim19-star)](https://github.com/welzim19-star):** Technical portfolio and low-level engineering implementations.
+
+---
+
+<details>
+<summary>🇧🇷 <strong>Visualizar Apresentação Corporativa em Português (Clique para Expandir)</strong></summary>
+<br/>
+
+### 🏢 Sobre a PW-SYSTEM
+
+A PW-SYSTEM atua como a organização técnica de engenharia e governança para sistemas corporativos de missão crítica, automação de operações de campo e infraestruturas defensivas.
+
+Nossas soluções atendem concessionárias de serviços públicos, redes de telecomunicações e operações industriais de larga escala, onde falhas de sistema, vazamento de informações ou interrupções operacionais são inaceitáveis.
+
+### 🛡️ Ecossistema de Sistemas Corporativos
+
+* **PW OpsDesk:** Central operacional e mesa de despacho ITSM em tempo real, orientada a eventos, com governança RBAC granular, desafio-resposta biométrico e sincronização de filas offline-first.
+* **PW Certify Enterprise:** Cliente móvel multiplataforma de inspeção técnica (Capacitor/Tauri) com impressão digital criptográfica de hardware, bloqueio por polígono GPS e emissão automatizada de laudos periciais em PDF.
+* **Bastion Audit Enterprise:** Agente autônomo de conformidade de segurança, inventário de ativos em tempo real e trilha imutável de auditoria com encadeamento criptográfico SHA-256 para perímetros de rede sensíveis.
+* **Resolve-IT:** Ponte operacional de atendimento e resolução de chamados de campo com sincronização bidirecional com APIs ITSM corporativas (padrão HaloITSM).
+
+### 🔍 Especificações Públicas & Vitrines Técnicas Desacopladas
+
+* 📡 **[Vitrine Arquitetural PW OpsDesk](https://github.com/welzim19-star/pw-opsdesk-showcase):** Especificação de despacho orientado a eventos e SLAs corporativos.
+* 🛡️ **[Motor Bastion-Core](https://github.com/welzim19-star/bastion-core):** Daemon assíncrono de auditoria de rede e ledger criptográfico SHA-256 sanitizado (código aberto).
+* ⚡ **[Perfil de Engenharia de Software (@welzim19-star)](https://github.com/welzim19-star):** Portfólio técnico e implementações de baixo nível.
+
+</details>
 
 ---
 
